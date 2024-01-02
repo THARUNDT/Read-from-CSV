@@ -37,3 +37,4 @@ print("Number of columns:",len(df.axes[1]))
 ![Screenshot 2024-01-02 142707](https://github.com/THARUNDT/Read-from-CSV/assets/144871537/235d4e37-dd53-45c6-a675-1c3ac5a4e3eb)
 
 ## RESULT:
+Thus a python program is written to read the contents of a csv fil
